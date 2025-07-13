@@ -1,0 +1,82 @@
+.banana{
+    background-size: 110px 110px;
+background-position: 0px 0px,55px 55px;
+background-image: radial-gradient(50% 50% at 50% 50%, #23D4D100 0%, #1729AF00 18%, #2231ACFF 36%, #66A1CCFF 61%, #DBFCFFFF 70%, #66C9CCFF 76%, #366289FF 82%, #52D0E6FF 91%, #52D0E6FF 103%, #D9E6A7 112%, #798B3C 113%, #798B3C 121%, #FFFFFF 122%, #FFFFFF 130%, #E0EAD7 131%, #E0EAD7 140%),radial-gradient(50% 50% at 50% 50%, #FFFFFFFF 0%, #50D4D8FF 22%, #2D5CC3FF 33%, #677FC0FF 44%, #4E6EA1FF 50%, #A7D0E6FF 74%, #2E5BA4FF 83%, #32669BFF 94%, #FFFFFF 103%, #D9E6A7 112%, #798B3C 113%, #798B3C 121%, #FFFFFF 122%, #FFFFFF 130%, #E0EAD7 131%, #E0EAD7 140%);
+}
+.hatter{
+    display: flex; 
+ 
+    height: fit-content;
+    flex-direction: column;
+   align-items: center;
+   margin-top: 50px;
+background-size: 100% 100%;
+background-position: 0px 0px;
+background-image: linear-gradient(90deg, #71F0FFDB 0%, #4EBFC4D1 30%, #55C8C8C9 98%);
+width: fit-content;
+padding: 20px;
+
+
+}
+.cikk{
+    color: black;
+    font-size: 50px
+}
+.cikk1{
+    color: black;
+    font-size: 30px;
+}
+mark{
+    background-color: yellow;
+    color: yellow;
+}
+.hatter1{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.hatter3{
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    height: 50px;
+    background-size: 100% 100%;
+background-position: 0px 0px,0px 0px,0px 0px,0px 0px,0px 0px;
+background-image: radial-gradient(49% 81% at 45% 47%, #FFE20345 0%, #073AFF00 100%),radial-gradient(113% 91% at 17% -2%, #FAFF00FF 1%, #93A71B00 99%),radial-gradient(142% 91% at 83% 7%, #FFDB00FF 1%, #FF000000 99%),radial-gradient(142% 91% at -6% 74%, #E3FF00FF 23%, #DBE75000 99%),radial-gradient(142% 91% at 111% 84%, #FF7000FF 0%, #FF0000FF 100%);
+width: 100%;
+}
+.gomb{
+    border-radius: 50%;
+    color: black;
+    text-decoration: none;
+}
+.gomb1{
+    border-radius: 50%;
+    rotate: 180deg;
+}
+a { 
+color: black;
+text-decoration: none;
+height: 50px;
+font-size: 30px;
+
+}
+.hatter2{
+    display: flex; 
+ 
+    height: fit-content;
+    flex-direction: column;
+   align-items: center;
+   margin-top: 50px;
+background-color: whitesmoke;
+width: fit-content;
+padding: 20px;
+max-width: 1200px;
+margin-top: 200px;
+}
+.hatter11{
+    display: flex;
+    width: 100%;
+     justify-content: space-between;
+    align-items: center;
+}
